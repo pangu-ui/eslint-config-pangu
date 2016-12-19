@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-pangu",
+  "version": "0.0.1",
+  "description": "a eslint config for pangu projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pangu-ui/eslint-config-pangu.git"
+  },
+  "keywords": [
+    "eslint",
+    "pangu"
+  ],
+  "author": "pangu-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pangu-ui/eslint-config-pangu/issues"
+  },
+  "homepage": "https://github.com/pangu-ui/eslint-config-pangu#readme"
+}
